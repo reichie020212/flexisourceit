@@ -29,6 +29,17 @@
 
 	python manage.py runserver
 
+### Endpoints
+	/registration/
+	/login/
+	/stock/
+	/stock/create/
+	/stock/<id_of_stock>/
+	/stock/buy/
+	/stock/sell/
+	/stock/list/
+	/stock/total/
+
 ### Explanation
 	Open Postman
 
